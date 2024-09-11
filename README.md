@@ -1,6 +1,3 @@
-<!--
-**kashifch100/kashifch100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hello! I am a Software Engineer with a passion for developing innovative and user-friendly web applications. With 3+ years of experience in the industry, I have honed my skills in JavaScript, HTML, CSS , PHP , JQUERY , MYSQL , BOOTSTRAP , TAILWIND and React.
 
 I have a strong understanding of the software development life cycle and have worked on projects ranging from simple websites to complex web applications. I am always striving to stay up-to-date with the latest technologies and industry trends, and I am dedicated to delivering high-quality solutions to my clients.
@@ -17,4 +14,4 @@ In my free time, I enjoy exploring new technologies. I am always looking for new
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
