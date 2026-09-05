@@ -25,6 +25,11 @@ I work best when the brief is real: a watermark tool, a store variation form, a 
 | [Flex Atelier](https://github.com/kashifch100/flex-atelier) | Live Flexbox playground that writes the CSS for you |
 | [Receipt Press](https://github.com/kashifch100/receipt-press) | Thermal-style shop receipt you can print |
 | [Watermark Studio](https://github.com/kashifch100/watermark-studio) | PHP + GD photo stamper: text or logo, corners, opacity |
+| [Mood Lantern](https://github.com/kashifch100/mood-lantern) | On-device sentiment analysis with DistilBERT |
+| [Snap Label](https://github.com/kashifch100/snap-label) | Label photos in the browser with MobileNet |
+| [Object Spot](https://github.com/kashifch100/object-spot) | Draw boxes around objects with COCO-SSD |
+| [Tone Guard](https://github.com/kashifch100/tone-guard) | Check comment tone with an in-browser toxicity model |
+| [Passage Oracle](https://github.com/kashifch100/passage-oracle) | Ask a paragraph a question with DistilBERT |
 | [Gemini AI Bot UI](https://github.com/kashifch100/Gemini-AI-BOT) | Responsive frontend study in HTML, CSS, and JavaScript |
 
 ## Tech stack
