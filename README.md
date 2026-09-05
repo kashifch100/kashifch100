@@ -24,7 +24,7 @@ I work best when the brief is real: a watermark tool, a store variation form, a 
 | [Exam Beacon](https://github.com/kashifch100/exam-beacon) | Shareable countdown for exams and deadlines |
 | [Flex Atelier](https://github.com/kashifch100/flex-atelier) | Live Flexbox playground that writes the CSS for you |
 | [Receipt Press](https://github.com/kashifch100/receipt-press) | Thermal-style shop receipt you can print |
-| [Watermark](https://github.com/kashifch100/Watermark) | PHP utility that stamps images |
+| [Watermark Studio](https://github.com/kashifch100/watermark-studio) | PHP + GD photo stamper: text or logo, corners, opacity |
 | [Gemini AI Bot UI](https://github.com/kashifch100/Gemini-AI-BOT) | Responsive frontend study in HTML, CSS, and JavaScript |
 
 ## Tech stack
