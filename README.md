@@ -19,9 +19,13 @@ I work best when the brief is real: a watermark tool, a store variation form, a 
 | Project | What it is |
 | --- | --- |
 | [Lumen Labs](https://github.com/kashifch100/lumen-labs) | Beginner classroom: portfolio, taskboard, quiz, budget tracker, palette lab, and a PHP study wall |
+| [Type Sprint](https://github.com/kashifch100/type-sprint) | 60-second typing test with WPM and accuracy |
+| [Flash Deck](https://github.com/kashifch100/flash-deck) | Flip study cards and save your own deck |
+| [Exam Beacon](https://github.com/kashifch100/exam-beacon) | Shareable countdown for exams and deadlines |
+| [Flex Atelier](https://github.com/kashifch100/flex-atelier) | Live Flexbox playground that writes the CSS for you |
+| [Receipt Press](https://github.com/kashifch100/receipt-press) | Thermal-style shop receipt you can print |
 | [Watermark](https://github.com/kashifch100/Watermark) | PHP utility that stamps images |
 | [Gemini AI Bot UI](https://github.com/kashifch100/Gemini-AI-BOT) | Responsive frontend study in HTML, CSS, and JavaScript |
-| [Ebay Variations](https://github.com/kashifch100/EbayVariations) | Custom product variations in PHP |
 
 ## Tech stack
 
@@ -66,6 +70,6 @@ I work best when the brief is real: a watermark tool, a store variation form, a 
 
 If you are learning web development, start here:
 
-1. Open [Lumen Labs](https://kashifch100.github.io/lumen-labs/)
+1. Open [Lumen Labs](https://kashifch100.github.io/lumen-labs/) or a mini project: [Type Sprint](https://kashifch100.github.io/type-sprint/), [Flash Deck](https://kashifch100.github.io/flash-deck/), [Exam Beacon](https://kashifch100.github.io/exam-beacon/), [Flex Atelier](https://kashifch100.github.io/flex-atelier/), [Receipt Press](https://kashifch100.github.io/receipt-press/)
 2. Fork a lab and put your name on it
 3. Publish your remix so the next student can learn from you
